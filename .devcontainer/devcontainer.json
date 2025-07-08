@@ -1,4 +1,5 @@
 {
+    "name": "devops-study-app",
     "build": {
         "context": "..",
         "dockerfile": "Dockerfile"
